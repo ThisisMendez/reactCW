@@ -26,7 +26,7 @@ const Ninjas = ({ninjas}) => {
                     <div>Belt: { ninja.belt }</div>
                 </div>   
              ) : null;
-            });  
+            })
          }
         </div>
     )
